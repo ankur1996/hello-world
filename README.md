@@ -1,2 +1,2 @@
 # hello-world
-first repository
+Hi I am ankur. I am trying to learn git. :)
